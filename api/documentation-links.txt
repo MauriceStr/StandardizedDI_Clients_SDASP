@@ -1,0 +1,12 @@
+# The following link refers to the documentation of the API implemented in context of the given API
+http://doc.hadoco.de/
+
+#The implementation is based on the concept of the Django REST Framework
+#Basic links related to the topic are mentioned below:
+
+https://www.django-rest-framework.org/
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+https://www.django-rest-framework.org/api-guide/viewsets/
+
+https://docs.djangoproject.com/en/3.0/topics/db/models/
+https://docs.djangoproject.com/en/3.0/topics/migrations/
